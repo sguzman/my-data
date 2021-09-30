@@ -19,3 +19,6 @@
 [submodule "todo"]
 	path = todo
 	url = https://github.com/sguzman/todo
+[submodule "resume"]
+	path = resume
+	url = https://github.com/sguzman/resume
