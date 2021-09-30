@@ -1,0 +1,21 @@
+[submodule "articles"]
+	path = articles
+	url = https://github.com/sguzman/articles
+[submodule "blog"]
+	path = blog
+	url = https://github.com/sguzman/blog
+[submodule "org-wiki"]
+	path = org-wiki
+	url = https://github.com/sguzman/org-wiki
+[submodule "flashcard-data"]
+	path = flashcard-data
+	url = https://github.com/sguzman/flashcard-data
+[submodule "conf-files"]
+	path = conf-files
+	url = https://github.com/sguzman/conf-files
+[submodule "notes"]
+	path = notes
+	url = https://github.com/sguzman/notes
+[submodule "todo"]
+	path = todo
+	url = https://github.com/sguzman/todo
