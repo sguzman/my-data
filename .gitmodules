@@ -22,3 +22,6 @@
 [submodule "resume"]
 	path = resume
 	url = https://github.com/sguzman/resume
+[submodule "MathWhiteBoard"]
+	path = MathWhiteBoard
+	url = https://github.com/sguzman/MathWhiteBoard
