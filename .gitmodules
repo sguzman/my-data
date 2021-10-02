@@ -25,9 +25,6 @@
 [submodule "MathWhiteBoard"]
 	path = MathWhiteBoard
 	url = https://github.com/sguzman/MathWhiteBoard
-[submodule "newsboat-db"]
-	path = newsboat-db
-	url = https://github.com/sguzman/newsboat-db
 [submodule "rss-subs"]
 	path = rss-subs
 	url = https://github.com/sguzman/rss-subs
