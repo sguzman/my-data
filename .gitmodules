@@ -28,3 +28,9 @@
 [submodule "rss-subs"]
 	path = rss-subs
 	url = https://github.com/sguzman/rss-subs
+[submodule "official"]
+	path = official
+	url = https://github.com/sguzman/official
+[submodule "fish-history"]
+	path = fish-history
+	url = https://github.com/sguzman/fish-history
