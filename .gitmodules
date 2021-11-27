@@ -34,3 +34,6 @@
 [submodule "fish-history"]
 	path = fish-history
 	url = https://github.com/sguzman/fish-history
+[submodule "work-scripts"]
+	path = work-scripts
+	url = https://github.com/sguzman/work-scripts
